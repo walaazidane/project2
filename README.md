@@ -10,4 +10,4 @@ script.js contain client side code changing and shaping look of website
 styles.css contain only a few lines of styling, bootstrap4 do the rest
 index.html contain structure of website
 
-My personal touch is supporting private messaging between two users.
+
